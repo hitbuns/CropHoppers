@@ -1,0 +1,13 @@
+items:
+  cropHopperItem:
+    displayName: "&6Crop-Hopper"
+    material: HOPPER
+    amount: 1
+    lore:
+      - '&9Right click to place down!'
+      - '&8Description:'
+      - '&aUsed to collect all drops in a 16x16 chunk and sell it!'
+    nbt-paths:
+      - isaCropHopper:BOOLEAN
+    nbt:
+      isaCropHopper: true

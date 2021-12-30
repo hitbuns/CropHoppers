@@ -1,0 +1,7 @@
+enabled: true
+offline-farming: true
+actionbar:
+  enabled: true
+  message: "&a+$%amount%"
+prices:
+  CACTUS: 5
